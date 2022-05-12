@@ -1,4 +1,4 @@
 # code-refactor
 
-This the website URL for module 1 homework:
+This the URL for code-refactor project:
 https://wingky1208.github.io/code-refactor/
